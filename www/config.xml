@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "eu.playandmusic.GymboreeScannerV2"
+        id = "msfMK2Demo"
         version = "1.0.0">
 
-    <name>Gymboree Barcode Scanner V2 MSF</name>
+    <name>MSF Video Demo</name>
 
     <description>
-        Gymboree user interface to scan in barcodes for automated attendance
+        MSF Demo mk2
     </description>
 
     <author href="http://playandmusic.eu" email="support@playandmusic.eu">
